@@ -1,0 +1,1 @@
+btnTranslate.addEventListener("click", clickEventHandler);
